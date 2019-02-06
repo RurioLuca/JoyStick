@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity implements JoyStick.JoyStick
         joy2.enableStayPut(true);
         joy2.setPadBackground(R.drawable.pad);
         joy2.setButtonDrawable(R.drawable.button);
+
+
     }
 
     @Override
